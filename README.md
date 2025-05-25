@@ -123,8 +123,8 @@ Model highlights:
 This project was developed as part of the course *Data Science for Business: Technical* (Spring 2025) at New York University.
 
 **Team G4:**
-- Asmita Sonavane (as20428)  
-- Ruchi Jha (rj2807)  
+- Ruchi Jha (rj2807)
+- Asmita Sonavane (as20428) 
 - Tanvi Takavane (tt2884)  
 - Srushti Shah (ss17021)  
 **Faculty Advisor:** Prof. Chris Volinsky
